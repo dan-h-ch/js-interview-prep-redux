@@ -4,6 +4,8 @@ This repo contains a number of JavaScript interview questions that can be used f
 
 Suggested answers along with relevant resources are posted in the answers folder.
 
+This repo was originally forked from [ajzawawi/js-interview-prep](https://github.com/ajzawawi/js-interview-prep) but it wasn't being maintained so redux version created.
+
 ## Table of Contents
 
 1. [General Questions](#general-questions)
